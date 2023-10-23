@@ -1,0 +1,137 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\Uploads\\6b717881-e3f2-4e55-b056-e8dc029e2233.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\6b717881-e3f2-4e55-b056-e8dc029e2233.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\Uploads\\efa854c2-255e-4095-b30c-b972cbfd739f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\efa854c2-255e-4095-b30c-b972cbfd739f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\mvc\\MoviesStoreMvc\\MoviesStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MoviesStoreMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MoviesStoreMvc.props",
+      "PackagePath": "build\\MoviesStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MoviesStoreMvc.props",
+      "PackagePath": "buildMultiTargeting\\MoviesStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MoviesStoreMvc.props",
+      "PackagePath": "buildTransitive\\MoviesStoreMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
