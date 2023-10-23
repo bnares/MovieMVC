@@ -90,7 +90,25 @@ namespace MoviesStoreMvc.Repositories.Implementation
         {
             try
             {
+                var genresToDelete = _context.MovieGenre.
+                    Where(a => a.MovieId == model.Id && !model.Genres.Contains(a.GenreId))
+                   .ToList();
+                foreach(var movieGenre in genresToDelete)
+                {
+                    
+                    _context.MovieGenre.Remove(movieGenre);
+                }
+                foreach (var genId in model.Genres)
+                {
+                    var movieGen = _context.MovieGenre.FirstOrDefault(a => a.MovieId == model.Id && a.GenreId == genId);
+                    if (movieGen == null)
+                    {
+                        movieGen = new MovieGenre { GenreId = genId, MovieId = model.Id };
+                        _context.MovieGenre.Add(movieGen);
+                    };
+                }
                 _context.Movie.Update(model);
+                
                 _context.SaveChanges();
                 return true;
             }
